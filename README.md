@@ -4,6 +4,16 @@ AI & IoT Virtual Bootcamp 2021 organized by quantum.ai
 # Presentation Slide:
 [Presentation Slides](https://drive.google.com/file/d/1SA-mEtnUgdtfFKEfrfIVrnAUHYqDpY37/view?usp=sharing)
 
+#Project Requirement:
+* Python
+* OpenCV
+* Matplotlib
+* Numpy
+* Pandas
+* PyTorch
+* Pytorch-lightning
+* others will be updated soon ..
+
 
 # Projects 1: OpenCV Basics
 
