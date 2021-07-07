@@ -16,6 +16,7 @@ AI & IoT Virtual Bootcamp 2021 organized by quantum.ai
 
 
 # Projects 1: OpenCV Basics
+* Most of OpenCV code will be found in GeekForGeeks [Getting Started with Python OpenCV](https://www.geeksforgeeks.org/reading-image-opencv-using-python/)
 
 # Projects 2: Face Mask Dection
 ## Datasets Link:
