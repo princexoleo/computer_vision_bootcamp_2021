@@ -1,6 +1,8 @@
 # Hands-on BootCamp with Computer Vision & OpenCV
 AI & IoT Virtual Bootcamp 2021 organized by [quantum.ai](https://quantumaihq.com/about-us). Quantum.ai is a dedicated E-Learning Platform based on Artificial Intelligence and Machine Learning.
 
+![alt text](https://github.com/princexoleo/computer_vision_bootcamp_2021/blob/main/res/cover_photo.jpg?raw=true)
+
 ## Presentation Slide:
 [Presentation Slides](https://drive.google.com/file/d/1SA-mEtnUgdtfFKEfrfIVrnAUHYqDpY37/view?usp=sharing)
 
